@@ -1,6 +1,6 @@
 # Project Goal
 
-![](img/cover.png)
+![](img/cover.PNG)
 
 In the age of big data, many organizations generate growth by analyzing its data. These companies have information about its products and services, buyers and suppliers, as well as consumer preferences. When was the last time you saw ads on the side of your browser about products you had recently searched up?
 
