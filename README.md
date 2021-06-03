@@ -1,4 +1,7 @@
 # Project Goal
+
+![](img/cover.png)
+
 In the age of big data, many organizations generate growth by analyzing its data. These companies have information about its products and services, buyers and suppliers, as well as consumer preferences. When was the last time you saw ads on the side of your browser about products you had recently searched up?
 
 Combining my love for entertainment (specifically gaming and watching korean dramas) and interest in working with consumer information, I decided to do my Research and Publication project on building a K-drama recommendation system. To achieve this, I researched different types of filtering methods and implemented one known as the content-based filtering method. The goal of this project is to be able to understand the processes behind the recommendation of a product.
